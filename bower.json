@@ -5,7 +5,7 @@
   "homepage": "https://github.com/cgkineo/adapt-ppq",
   "displayName" : "Pin Point Question",
   "component" : "ppq",
-  "description": "A question component that requires users to correctly position one or more pins on an image.",
+  "description": "A question component that requires users to correctly position one or more pins on an image. For framework 4.0.",
   "main": "/js/adapt-ppq.js",
   "keywords": [
     "adapt-plugin",
